@@ -17,9 +17,7 @@ repository should:
 	* a README.md with the title, your name and the date in the project's root directory
 
 3. Write a 10 Minute Plan for the code you are developing for you final project. The ten 
-minute plan should end up the README.md file. 
-
-*Please please please make sure you give
+minute plan should end up the README.md file. *Please please please make sure you give
 the README file an .md extension, otherwise it wont be rendered and wont word wrap on 
 Github and your peers will have a very difficult time reading it.*
 
