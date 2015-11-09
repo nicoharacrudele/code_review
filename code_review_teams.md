@@ -6,7 +6,7 @@ Each of you will review the code of the others in your team.
 **Group 1:**
 * Nicholas Allan [repo]() / @
 * Talia Oberlander [repo]() / @
-* Jessica O'Sullivan [repo]() / @
+* Jessica O'Sullivan [repo](https://github.com/jsully1/Final-Project) / @ jsully1
 
 **Group 2:**
 * Miriam Baumann [repo]() / @
