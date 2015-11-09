@@ -4,7 +4,7 @@ Each of you will review the code of the others in your team.
 *note - for group 4 each of you will review only two other's code (see below).* 
 
 **Group 1:**
-* Nicholas Allan [repo]() / @
+* Nicholas Allan [repo](https://github.com/nallanrugby/Final_Project_Weather_Nicholas_Allan.git) / @
 * Talia Oberlander [repo]() / @
 * Jessica O'Sullivan [repo]() / @
 
