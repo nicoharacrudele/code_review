@@ -66,8 +66,47 @@ comments/edits/bug fixes to Git.
 repository on GitHub.
 
 7. [Create a **pull request**](https://help.github.com/articles/creating-a-pull-request/) 
-on the original repository to turn in your review.
+on the original repository to turn in your review. **When making the pull request, you must
+write a brief (100 - 200 word) summary of the comments/edits/bug fixes included in your 
+pull request.**
 
 8. Be prepared to discuss each review (you will be doing 2) with your team for 5 minutes 
 during class. These discussions should highlight what you think is the most helpful aspect 
 of your review. The peer tutor will facilitate these discussions.
+
+## Grading rubric
+
+<table>
+  <tr>
+    <th></td>
+    <th>Poor/Unacceptable 0% – 59%</td> 
+    <th>Limited 60% – 69%</td> 
+    <th>Fair/Adequate 70% – 79%</td> 
+    <th>Good 80% – 89%</td> 
+    <th>Exceptional 90% – 100%</td> 
+  </tr>
+  <tr>
+    <th>Ten Minute Plan (20%)</td>
+    <td>Instructions (as documented <a href="https://github.com/PHY3009/code_review/blob/master/Ten_Minute_Plan.md">here</a>) were not followed.</td> 
+    <td></td> 
+    <td></td> 
+    <td></td> 
+    <td>Ten Minute Plan exists in the README.md file in the projects root directory and the project has been set up as per instructions <a href="https://github.com/PHY3009/code_review/blob/master/Ten_Minute_Plan.md">here</a>.</td> 
+  </tr>
+  <tr>
+    <th>Code Review (60%)</td>
+    <td>No comments/edits or bug fixes were included with the pull request.</td> 
+    <td>Comments/edits/bug fixes identified with the code, but the issues identified are only somewhat helpful for improving the code. No summary was provided with the pull request.</td> 
+    <td>Comments/edits/bug fixes identified with the code, but the issues identified are only somewhat helpful for improving the code. A summary of the comments/edits/bug fixes included in the pull request was written when the pull request was submitted, but it is not clear.</td> 
+    <td>Comments/edits/bug fixes identified key issues with the code and would be very helpful for improving the code. A good summary of the comments/edits/bug fixes included in the pull request was written when the pull request was submitted.</td>
+    <td>Comments/edits/bug fixes identified key issues with the code and would be exceptionally helpful for improving the code. An exceptional summary of the comments/edits/bug fixes included in the pull request was written when the pull request was submitted.</td> 
+  </tr>
+  <tr>
+    <th>Oral Discussion (20%)</td>
+    <td>Feedback was neither relevant nor constructive to improving the code. Feedback was not respectful nor polite.</td> 
+    <td>Feedback was not relevant nor constructive to improving the code.</td> 
+    <td>Constructive feedback on the code was politely presented, but the feedback was not focused on key aspects which would be most important for improving the code. Clarity was lacking.</td> 
+    <td>Key constructive and relevant feedback on the code was politely presented. Clarity was lacking.</td>
+    <td>Key constructive and relevant feedback on the code was clearly and politely presented.</td> 
+  </tr>
+</table>
