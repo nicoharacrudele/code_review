@@ -14,7 +14,7 @@ Each of you will review the code of the others in your team.
 * Miles Ingram [repo]() / @
 
 **Group 3:**
-* Nicholas Crudele [repo]() / @
+* Nicholas Crudele [repo](https://github.com/nicoharacrudele/Final_Project) / @nicoharacrudele
 * Kyle Fawkes [repo]() / @
 * Jonah Golden [repo]() / @
 
