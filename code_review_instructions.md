@@ -17,7 +17,7 @@ amounts of code should take relatively less.
  bug/error in the code please point it out, and if you can, please try to fix it! Remember
  to be polite and respectful by following the [code of conduct](http://software-carpentry.org/conduct.html).
 
- While reviewing the code, follow [this checklist](http://mozillascience.github.io/codeReview/review.html) from the Mozilla Open Science lab:
+ While reviewing the code, follow the checklist below from the [Mozilla Science Lab](http://mozillascience.github.io/codeReview/review.html):
 	* **Are functions as simple as possible?** We insisted in our submission guidelines that 
 	functions be short, but this is really a simple proxy for our true goal: to ensure that 
 	functions are modular. A modular function is one that does exactly one thing, and does 
