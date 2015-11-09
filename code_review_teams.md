@@ -9,7 +9,7 @@ Each of you will review the code of the others in your team.
 * Jessica O'Sullivan [repo](https://github.com/jsully1/Final-Project) / @ jsully1
 
 **Group 2:**
-* Miriam Baumann [repo]() / @
+* Miriam Baumann [repo](https://github.com/msbaumann/Final_Project_on_Marketing.git) / @msbaumann
 * Anders Horner [repo]() / @
 * Miles Ingram [repo]() / @
 
